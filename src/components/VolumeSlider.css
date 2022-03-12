@@ -1,0 +1,11 @@
+.slider {
+  font-size: 20px;
+  margin: 5px 1vw 1vh 1vw;
+}
+.slider:hover {
+  cursor: pointer;
+}
+#volume-slider {
+  font-size: 3vh;
+  margin: 1vh 1vw 0vh 1vw;
+}
